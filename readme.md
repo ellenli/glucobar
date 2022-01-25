@@ -4,4 +4,4 @@ See your blood glucose from the menu bar. Reads from continuous continuous gluco
 
 WIP.
 
-![image](https://github.com/ellenli/glocobar/blob/main/screenshot.png)
+![image](https://github.com/ellenli/glucobar/blob/main/screenshot.png)
